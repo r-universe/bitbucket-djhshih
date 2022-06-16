@@ -1,0 +1,18 @@
+[
+  {
+    "package": "argparser",
+    "oncran": true
+  },
+  {
+    "package": "dppmix",
+    "oncran": true
+  },
+  {
+    "package": "filenamer",
+    "oncran": true
+  },
+  {
+    "package": "io",
+    "oncran": true
+  }
+]
